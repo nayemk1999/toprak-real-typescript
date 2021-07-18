@@ -6,3 +6,6 @@ First, run the development server:
 npm run dev
 
 # Toprak Real Estate
+Etw jhamela kn?
+jala r jala
+```
