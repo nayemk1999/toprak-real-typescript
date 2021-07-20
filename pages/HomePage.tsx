@@ -1,10 +1,10 @@
 import React from 'react'
-import NavBar from './component/NavBar/NavBar'
+import HeaderMain from './component/HeaderMain'
 
 export default function HomePage() {
     return (
         <div>
-            <NavBar />
+            <HeaderMain />
         </div>
     )
 }
