@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function about() {
+export default function HeroSection() {
     return (
         <div>
-            <p>This is About page</p>
+            <p>okay</p>
         </div>
     )
 }
